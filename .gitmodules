@@ -1,0 +1,3 @@
+[submodule "yahdlc"]
+	path = yahdlc
+	url = git@github.com:lukeaustinsmith/yahdlc.git
